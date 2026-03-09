@@ -16,5 +16,5 @@ The main objective was to build complex data structures at a low level, avoiding
 
 This project was developed in pairs as part of the course assessment.
 
-* **Francisco Pellicer Alarcón** - 
-* **Francisco Carlos Bernad Guillén** -
+* **Francisco Pellicer Alarcón** 
+* **Francisco Carlos Bernad Guillén** 
