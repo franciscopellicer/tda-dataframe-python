@@ -12,4 +12,9 @@ The main objective was to build complex data structures at a low level, avoiding
 * **Mail Manager ADT:** Implementation of management and filtering logic.
 * **Memory Management:** Efficient and structured design using Object-Oriented Programming.
 
-*Developed in Python 3.*
+## 👥 Authors and Contributors
+
+This project was developed in pairs as part of the course assessment.
+
+* **Francisco Pellicer Alarcón** - 
+* **Francisco Carlos Bernad Guillén** -
